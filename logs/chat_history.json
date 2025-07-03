@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "most sales per day"
+  },
+  {
+    "role": "assistant",
+    "content": "The shop with the highest average daily sales is **1202.0** with an average of **$4,984.38** per day."
+  }
+]
