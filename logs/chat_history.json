@@ -1,7 +1,7 @@
 [
   {
     "role": "user",
-    "content": "most sales per day"
+    "content": "revenue"
   },
   {
     "role": "assistant",
